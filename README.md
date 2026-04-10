@@ -1,3 +1,15 @@
+Esta es una calculasdora que segun yo ya esta finalisada 
+
+---
+
+##Imagen del proyecto##
+
+
+
+1[Imagen Cover](https://files.catbox.moe/4idof6.png)
+
+---
+
 <details>
   <summary>Instalacion</summary>
 
